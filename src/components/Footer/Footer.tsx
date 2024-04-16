@@ -8,8 +8,8 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://vitor.netlify.app/" className="logo">
-        <span>vitor.netlify.app</span>
+      <a href="https://vitor-alves.netlify.app/" className="logo">
+        <span>vitor-alves.netlify.app</span>
       </a>
       <div>
         <p>
